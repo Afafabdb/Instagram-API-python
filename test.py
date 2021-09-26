@@ -14,8 +14,8 @@ from InstagramAPI import InstagramAPI, credentials
 class InstagramAPITests(unittest.TestCase):
 
     # def test_login(self):
-    #     api = InstagramAPI(username=credentials.USERNAME,
-    #                        password=credentials.PASSWORD)
+    #     api = InstagramAPI(username=credentials.___gaming.hub,
+    #                        password=credentials.Adarsh98)
 
     #     # Trying to access something before you log in fails with Authentication error.
     #     with self.assertRaises(InstagramAPI.AuthenticationError):
